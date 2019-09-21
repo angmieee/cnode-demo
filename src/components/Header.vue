@@ -24,6 +24,7 @@
 .header{
   background-color:#5a5555 ;
   height: 50px;
+
 }
 img{
   max-width: 120px;
